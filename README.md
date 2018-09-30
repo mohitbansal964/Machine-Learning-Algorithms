@@ -4,3 +4,5 @@ Implementation of different **Machine Learning Algorithms** for different datase
 Linear Regression for **boston dataset**, **combine cycle power plant dataset**.
 
 Logistic Regression for **Titanic dataset**
+
+Decision Tree for **Iris Dateset**, **OR operation**, **Random Dataset**

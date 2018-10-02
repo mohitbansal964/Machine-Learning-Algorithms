@@ -3,8 +3,10 @@ Implementation of different **Machine Learning Algorithms** for different datase
 
 Linear Regression for **boston dataset**, **combine cycle power plant dataset**.
 
-Logistic Regression for **Titanic dataset**
+Logistic Regression for **Titanic dataset**.
 
-Decision Tree for **Iris Dateset**, **OR operation**, **Random Dataset**
+Decision Tree for **Iris Dateset**, **OR operation**, **Random Dataset**.
 
 Naive Bayes for **Iris Dataset**.
+
+K- Nearest Neighbors for **Breast Cancer Dataset**.

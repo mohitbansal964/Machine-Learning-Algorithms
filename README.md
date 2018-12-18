@@ -12,3 +12,5 @@ Naive Bayes for **Iris Dataset**.
 K- Nearest Neighbors for **Breast Cancer Dataset**.
 
 Neural Network with 1 hidden layer of 2 units for **XOR**. 
+
+Conolutional Neural Network for **MNIST dataset** in Keras.
